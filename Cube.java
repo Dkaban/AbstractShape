@@ -1,9 +1,6 @@
 //*************************************************************************************
 //  Cube.java
 //
-//  Dustin Kaban T00663749
-//  COMP 1231 Assignment 1
-//
 //  This is a child class of ThreeDShape, which represents a Cube shape.
 //  This class requires only one variable, sideLength.
 //  It calculates the volume and surface Area and returns all
