@@ -1,9 +1,6 @@
 //*************************************************************************************
 //  ThreeDShape.java
 //
-//  Dustin Kaban T00663749
-//  COMP 1231 Assignment 1
-//
 //  This is the parent class for all of the 3D shapes.
 //  It contains only a name variable and sets up abstract methods
 //  for the shapes to use.  This is the blueprint for all other shapes.
