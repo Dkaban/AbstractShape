@@ -1,5 +1,7 @@
 # AbstractShape
-This is an assignment where you create an Abstract class called Shape and then extend a few classes to show proper inheritance and encapsulation.
+Using an abstract class for Shape, we create a Cube, Sphere, and Cylinder input attributes, then output the following:
+- Calculate the Volume
+- Calculate the Surface Area
 
 
 ![Alt Text](https://github.com/Dkaban/AbstractShape/blob/master/Test_General.png?raw=true "Test Data")
