@@ -1,9 +1,6 @@
 //*************************************************************************************
 //  ShapeMaker.java
 //
-//  Dustin Kaban T00663749
-//  COMP 1231 Assignment 1
-//
 //  This is the driver class, we use it to create an array of 3D Shapes and
 //  print out the information about the shapes types, volumes, and surface areas.
 //*************************************************************************************
